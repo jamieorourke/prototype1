@@ -1,0 +1,91 @@
+body{
+    background-color: mediumpurple;
+    margin: 0;
+    
+}
+main{
+    background-color: white;
+    width:auto;
+    height:auto;
+    margin: 50px;
+    font-size: 10px;
+    text-align: center;
+    color: mediumpurple;
+    font-size: 40pt
+}  
+
+
+header{
+    text-align: center;
+    height: 100px;
+    font-size: 50px;
+    padding-top: 50px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+div{
+  font-size: 15pt; 
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    background-color: black;
+    
+}
+
+li {
+    float: left;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:mediumpurple;
+}
+nav{
+    margin-top: 50px;
+    
+}
+#march{
+    width: 400px;
+}
+#logo{
+    width: 400px;
+    height: 250px
+}
+h1{
+    font-family: 'Francois One', sans-serif;
+    font-size: 55pt;
+}
+h2{
+  font-size: 35pt;
+text-align: center;
+    font-family: 'Francois One', sans-serif;
+}
+#font1{
+    text-align: left;
+    font-size: 30pt;
+    font-family: 'Francois One', sans-serif;
+}
+.font3{
+    font-size:23pt;
+    color: darkslategrey;
+    text-align: center;
+    font-family: 'Francois One', sans-serif;
+}
+.twitter-tweet{
+    
+}
